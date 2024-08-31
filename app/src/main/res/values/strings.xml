@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Recycler view</string>
+    <string name="string">string</string>
+    <string name="plantname">string</string>
+    <string name="scientificname">scientificname</string>
+    <string name="description">description</string>
+    <string name="light">light</string>
+    <string name="water">water</string>
+    <string name="temperature">temperature</string>
+    <string name="plantsize">plantsize</string>
+    <string name="potsize">potsize</string>
+    <string name="humidity">humidity</string>
+    <string name="propagation">propagation</string>
+    <string name="location">location</string>
+    <string name="toxity">toxity</string>
+    <string name="season">season</string>
+    <string name="instructions">instructions</string>
+    <string name="plantcolor">plantcolor</string>
+    <string name="plantfragrance">plantfragrance</string>
+    <string name="disease">disease</string>
+    <string name="plantcare">plantcare</string>
+    <string name="soiltype">soiltype</string>
+    <string name="maintenancelevel">maintenancelevel</string>
+    <string name="lifetime">lifetime</string>
+    <string name="growthrate">growthrate</string>
+
+    <string name="button">button</string>
+    <string name="todo">TODO</string>
+
+</resources>

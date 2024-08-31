@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:elevation="16dp"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FAFDFA"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/Default"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitCenter"
+android:src="@drawable/alovera"
+
+           />
+
+        <TextView
+            android:id="@+id/plant_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:textSize="16sp"
+            android:text="plantname"/>
+
+        <TextView
+            android:id="@+id/scientificname"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="scientificname"/>
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="description"/>
+        <TextView
+            android:id="@+id/light"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="light"/>
+        <TextView
+            android:id="@+id/water"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="water"/>
+        <TextView
+            android:id="@+id/temperature"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="temperature"/>
+        <TextView
+            android:id="@+id/plantsize"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="plantsize"/>
+        <TextView
+            android:id="@+id/potsize"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="potsize"/>
+        <TextView
+            android:id="@+id/humidity"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="humidity"/>
+        <TextView
+            android:id="@+id/propagation"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="propagation"/>
+        <TextView
+            android:id="@+id/location"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="location"/>
+
+        <TextView
+            android:id="@+id/toxity"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="toxity"/>
+        <TextView
+            android:id="@+id/season"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="season"/>
+
+        <TextView
+            android:id="@+id/instructions"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="instructions"/>
+        <TextView
+            android:id="@+id/plantcolor"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="plantcolor"/>
+        <TextView
+            android:id="@+id/plantfragrance"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="plantfragrance"/>
+        <TextView
+            android:id="@+id/disease"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="disease"/>
+        <TextView
+            android:id="@+id/plantcare"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="plantcare"/>
+
+
+
+        <TextView
+            android:id="@+id/soiltype"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="soiltype"/>
+        <TextView
+            android:id="@+id/maintenancelevel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="maintenancelevel"/>
+        <TextView
+            android:id="@+id/lifetime"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="lifetime"/>
+        <TextView
+            android:id="@+id/growthrate"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="growthrate"/>
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
